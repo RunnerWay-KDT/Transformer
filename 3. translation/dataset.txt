@@ -1,0 +1,102 @@
+Hello|안녕하세요
+Good morning|좋은 아침입니다
+Thank you|감사합니다
+How are you|어떻게 지내세요
+I love you|사랑해요
+Good night|좋은 밤 되세요
+See you later|나중에 봐요
+Nice to meet you|만나서 반가워요
+I am happy|저는 행복해요
+I am sad|저는 슬퍼요
+The weather is good|날씨가 좋아요
+I like coffee|저는 커피를 좋아해요
+What is your name|이름이 무엇인가요
+Where are you from|어디서 왔어요
+I am hungry|저는 배고파요
+I am tired|저는 피곤해요
+Please help me|도와주세요
+I do not understand|저는 이해하지 못해요
+This is my book|이것은 제 책이에요
+That is a cat|저것은 고양이예요
+I have a dog|저는 개를 키워요
+She is beautiful|그녀는 아름다워요
+He is kind|그는 친절해요
+We are friends|우리는 친구예요
+They are students|그들은 학생이에요
+I go to school|저는 학교에 가요
+I eat breakfast|저는 아침을 먹어요
+I drink water|저는 물을 마셔요
+I read a book|저는 책을 읽어요
+I write a letter|저는 편지를 써요
+The sky is blue|하늘은 파래요
+The sun is bright|태양은 밝아요
+I study English|저는 영어를 공부해요
+Today is Monday|오늘은 월요일이에요
+Tomorrow is Tuesday|내일은 화요일이에요
+I am a teacher|저는 선생님이에요
+You are smart|당신은 똑똑해요
+This is delicious|이것은 맛있어요
+I want to sleep|저는 자고 싶어요
+Let us go|가자
+Come here|이리 와
+Wait a moment|잠깐만 기다려
+I agree|동의해요
+I disagree|동의하지 않아요
+That is correct|그것은 맞아요
+That is wrong|그것은 틀려요
+I have a question|질문이 있어요
+Can you help me|도와줄 수 있어요
+I can do it|저는 할 수 있어요
+I cannot do it|저는 할 수 없어요
+This is easy|이것은 쉬워요
+This is difficult|이것은 어려워요
+I like music|저는 음악을 좋아해요
+She plays piano|그녀는 피아노를 쳐요
+He plays guitar|그는 기타를 쳐요
+We sing a song|우리는 노래를 불러요
+The flower is pretty|꽃이 예뻐요
+The tree is tall|나무가 커요
+I open the door|저는 문을 열어요
+I close the window|저는 창문을 닫아요
+The car is fast|차가 빨라요
+The bike is slow|자전거가 느려요
+I watch a movie|저는 영화를 봐요
+I listen to music|저는 음악을 들어요
+The food is hot|음식이 뜨거워요
+The ice is cold|얼음이 차가워요
+I wear a hat|저는 모자를 써요
+She wears glasses|그녀는 안경을 써요
+It is raining|비가 와요
+It is snowing|눈이 와요
+The moon is round|달이 둥글어요
+The stars are shining|별이 빛나요
+I feel good|기분이 좋아요
+I feel bad|기분이 나빠요
+Spring is warm|봄은 따뜻해요
+Summer is hot|여름은 더워요
+Fall is cool|가을은 시원해요
+Winter is cold|겨울은 추워요
+I am thirsty|저는 목말라요
+The apple is red|사과가 빨개요
+The banana is yellow|바나나가 노래요
+The grape is purple|포도가 보라색이에요
+I wake up early|저는 일찍 일어나요
+I go to bed late|저는 늦게 자요
+My family is happy|우리 가족은 행복해요
+I love my mother|저는 엄마를 사랑해요
+I love my father|저는 아빠를 사랑해요
+My brother is tall|제 남동생은 키가 커요
+My sister is smart|제 여동생은 똑똑해요
+The house is big|집이 커요
+The room is small|방이 작아요
+I sit on a chair|저는 의자에 앉아요
+The lamp is bright|램프가 밝아요
+I turn on the light|저는 불을 켜요
+I turn off the light|저는 불을 꺼요
+The baby is cute|아기가 귀여워요
+The dog is friendly|개가 다정해요
+The cat is lazy|고양이가 게을러요
+I brush my teeth|저는 이를 닦아요
+I wash my face|저는 세수를 해요
+I take a shower|저는 샤워를 해요
+I comb my hair|저는 머리를 빗어요
